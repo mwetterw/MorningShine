@@ -1,0 +1,4 @@
+Flask==0.11.1
+pyephem==3.7.6.0
+sortedcontainers==1.5.3
+uWSGI==2.0.13.1
